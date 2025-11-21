@@ -4,11 +4,11 @@ A full-stack marketplace for bartering and free gifting. Swapper lets community 
 
 ## Live Demo
 
-> **Update this link after deployment:** [https://mern-final-project-ellyj12.vercel.app/](https://mern-final-project-ellyj12.vercel.app/)
+** [https://mern-final-project-ellyj12.vercel.app/](https://mern-final-project-ellyj12.vercel.app/)
 
 ## Video Walkthrough
 
-> **Update after recording a 5-10 minute demo:** [https://youtu.be/your-demo-link](https://youtu.be/your-demo-link)
+** [https://drive.google.com/file/d/1Hu5kqvPnfV128eyS2DcFH92G0EbOI1TH/view?usp=sharing](https://drive.google.com/file/d/1Hu5kqvPnfV128eyS2DcFH92G0EbOI1TH/view?usp=sharing)
 
 ## Table of Contents
 
