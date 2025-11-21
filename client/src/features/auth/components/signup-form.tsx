@@ -162,6 +162,7 @@ const SignupForm = ({ className, ...props }: React.ComponentProps<"form">) => {
               onChange={(e) => setUsername(e.target.value)}
               required
             />
+            <FieldDescription>Must be 5 or more characters</FieldDescription>
           </Field>
 
           <Field>
@@ -214,7 +215,7 @@ const SignupForm = ({ className, ...props }: React.ComponentProps<"form">) => {
             onChange={(e) => setPassword(e.target.value)}
             required
           />
-          <FieldDescription>Must be at least 8 characters long.</FieldDescription>
+          <FieldDescription>Must be at least 8 characters long,contain 1 Uppercase and 1 Special charcter</FieldDescription>
         </Field>
 
         <Field>

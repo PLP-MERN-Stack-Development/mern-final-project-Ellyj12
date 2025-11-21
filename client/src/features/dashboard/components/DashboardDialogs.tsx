@@ -57,7 +57,7 @@ export const CompleteSwapDialog = ({ isOpen, onClose, onConfirm, code, setCode, 
       </DialogHeader>
       <div className="py-4">
         <Input
-          placeholder="Enter 6-digit code"
+          placeholder="Enter 4-digit code"
           value={code}
           onChange={(e) => setCode(e.target.value)}
         />
