@@ -4,7 +4,7 @@ A full-stack marketplace for bartering and free gifting. Swapper lets community 
 
 ## Live Demo
 
-> **Update this link after deployment:** [https://your-deployment-url.example.com](https://your-deployment-url.example.com)
+> **Update this link after deployment:** [https://your-deployment-url.example.com]()
 
 ## Video Walkthrough
 
