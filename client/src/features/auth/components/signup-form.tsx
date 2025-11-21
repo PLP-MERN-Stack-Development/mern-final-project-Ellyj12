@@ -9,7 +9,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { useState, useCallback } from "react";
 import { useRegister } from "@/features/auth/hooks/useRegister";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Cropper from "react-easy-crop";
 import getCroppedImg from "@/lib/cropImage";
 
@@ -241,7 +241,7 @@ const SignupForm = ({ className, ...props }: React.ComponentProps<"form">) => {
         <Field>
 
           <FieldDescription className="px-6 text-center">
-            Already have an account? <a href="/login">Sign in</a>
+            Already have an account? <Link to="/login">Sign in</Link>
           </FieldDescription>
         </Field>
       </FieldGroup>

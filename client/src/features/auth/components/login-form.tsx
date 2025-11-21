@@ -16,7 +16,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { useState } from "react"
 import { useLogin } from "@/features/auth/hooks/useLogin" 
-import {useNavigate } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 
 export function LoginForm({
   className,
@@ -90,7 +90,7 @@ export function LoginForm({
                   </FieldDescription>
                 )}
                 <FieldDescription className="text-center">
-                  Don&apos;t have an account? <a href="/register">Sign up</a>
+                  Don&apos;t have an account? <Link to="/register">Sign up</Link>
                 </FieldDescription>
               </Field>
             </FieldGroup>
