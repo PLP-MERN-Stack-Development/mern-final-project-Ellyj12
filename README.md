@@ -71,9 +71,9 @@ Back end and front end are developed in separate workspaces but share a common r
 ## Screenshots
 ## Home page listings
 <img width="955" height="440" alt="Home Listings " src="https://github.com/user-attachments/assets/58f08528-60a4-407f-8d1f-5d83701f3c1c" />
-##Detailed Item page
+## Detailed Item page
 <img width="929" height="473" alt="detailed Items page" src="https://github.com/user-attachments/assets/0870dc62-787a-4d07-b455-651df676e087" />
-##Dashboard
+## Dashboard
 <img width="950" height="467" alt="Dashboard" src="https://github.com/user-attachments/assets/ad4de33e-f206-42c1-8671-2b2771cd3350" />
 
 ## Getting Started
