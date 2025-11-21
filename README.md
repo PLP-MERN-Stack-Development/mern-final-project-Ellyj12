@@ -69,10 +69,13 @@ Back end and front end are developed in separate workspaces but share a common r
 | Tooling      | ESLint, Prettier, Vite React Compiler, Nodemon |
 
 ## Screenshots
+## Home page listings
+<img width="955" height="440" alt="Home Listings " src="https://github.com/user-attachments/assets/58f08528-60a4-407f-8d1f-5d83701f3c1c" />
+##Detailed Item page
 
-> Replace the image paths below with actual screenshots (commit them to `docs/screenshots/`).
 
-![Home Listings](<img width="955" height="440" alt="Home Listings " src="https://github.com/user-attachments/assets/25550fbb-de38-4f30-8779-a3a66bf70674"/>)
+
+
 ![Item Detail](<img width="929" height="473" alt="detailed Items page" src="https://github.com/user-attachments/assets/a0c7506c-aa8d-4ce2-9bf5-14c100591825"/>)
 ![User Dashboard](docs/screenshots/dashboard.png)
 
