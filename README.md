@@ -26,9 +26,6 @@ A full-stack marketplace for bartering and free gifting. Swapper lets community 
 - [API Overview](#api-overview)
 - [Database Index Management](#database-index-management)
 - [Project Scripts](#project-scripts)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **User authentication & profiles** - Secure registration/login with persisted auth state, profile photos, and location metadata.
