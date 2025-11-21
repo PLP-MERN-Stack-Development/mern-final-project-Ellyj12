@@ -1,10 +1,10 @@
-# Swapper
+# EcoSwap
 
 A full-stack marketplace for bartering and free gifting. Swapper lets community members publish listings, filter available items, and negotiate trades or free pickups through a guided swap workflow. The project pairs a React + Vite front end with a Node.js/Express API backed by MongoDB Atlas and Cloudinary for asset storage.
 
 ## Live Demo
 
-> **Update this link after deployment:** [https://your-deployment-url.example.com](https://your-deployment-url.example.com)
+> **Update this link after deployment:** [https://mern-final-project-ellyj12.vercel.app/](https://mern-final-project-ellyj12.vercel.app/)
 
 ## Video Walkthrough
 
@@ -26,9 +26,6 @@ A full-stack marketplace for bartering and free gifting. Swapper lets community 
 - [API Overview](#api-overview)
 - [Database Index Management](#database-index-management)
 - [Project Scripts](#project-scripts)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **User authentication & profiles** - Secure registration/login with persisted auth state, profile photos, and location metadata.
@@ -69,12 +66,12 @@ Back end and front end are developed in separate workspaces but share a common r
 | Tooling      | ESLint, Prettier, Vite React Compiler, Nodemon |
 
 ## Screenshots
-
-> Replace the image paths below with actual screenshots (commit them to `docs/screenshots/`).
-
-![Home Listings](docs/screenshots/items-grid.png)
-![Item Detail & Swap Dialog](docs/screenshots/item-detail.png)
-![User Dashboard](docs/screenshots/dashboard.png)
+## Home page listings
+<img width="955" height="440" alt="Home Listings " src="https://github.com/user-attachments/assets/58f08528-60a4-407f-8d1f-5d83701f3c1c" />
+## Detailed Item page
+<img width="929" height="473" alt="detailed Items page" src="https://github.com/user-attachments/assets/0870dc62-787a-4d07-b455-651df676e087" />
+## Dashboard
+<img width="950" height="467" alt="Dashboard" src="https://github.com/user-attachments/assets/ad4de33e-f206-42c1-8671-2b2771cd3350" />
 
 ## Getting Started
 
@@ -114,8 +111,8 @@ $bytes = New-Object byte[] 32
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ellyj12/Swapper.git
-cd Swapper
+git clone https://github.com/PLP-MERN-Stack-Development/mern-final-project-Ellyj12
+cd mern-final-project-Ellyj12
 
 # Install front-end dependencies
 cd client
@@ -230,12 +227,3 @@ The script connects to your MongoDB instance, calls `syncIndexes()` for the User
 | `npm start` | Start API in production mode |
 | `npm run test` | Execute Jest test suite |
 
-## Contributing
-
-1. Fork the repository and create a feature branch.
-2. Run linting and tests before pushing.
-3. Open a pull request describing your changes and screenshots where relevant.
-
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
