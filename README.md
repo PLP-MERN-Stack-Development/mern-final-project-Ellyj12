@@ -1,10 +1,10 @@
-# Swapper
+# EcoSwap
 
 A full-stack marketplace for bartering and free gifting. Swapper lets community members publish listings, filter available items, and negotiate trades or free pickups through a guided swap workflow. The project pairs a React + Vite front end with a Node.js/Express API backed by MongoDB Atlas and Cloudinary for asset storage.
 
 ## Live Demo
 
-> **Update this link after deployment:** [https://your-deployment-url.example.com]()
+> **Update this link after deployment:** [https://mern-final-project-ellyj12.vercel.app/](https://mern-final-project-ellyj12.vercel.app/)
 
 ## Video Walkthrough
 
@@ -72,8 +72,8 @@ Back end and front end are developed in separate workspaces but share a common r
 
 > Replace the image paths below with actual screenshots (commit them to `docs/screenshots/`).
 
-![Home Listings](docs/screenshots/items-grid.png)
-![Item Detail & Swap Dialog](docs/screenshots/item-detail.png)
+![Home Listings](<img width="955" height="440" alt="Home Listings " src="https://github.com/user-attachments/assets/25550fbb-de38-4f30-8779-a3a66bf70674"/>)
+![Item Detail](<img width="929" height="473" alt="detailed Items page" src="https://github.com/user-attachments/assets/a0c7506c-aa8d-4ce2-9bf5-14c100591825"/>)
 ![User Dashboard](docs/screenshots/dashboard.png)
 
 ## Getting Started
@@ -114,8 +114,8 @@ $bytes = New-Object byte[] 32
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ellyj12/Swapper.git
-cd Swapper
+git clone https://github.com/PLP-MERN-Stack-Development/mern-final-project-Ellyj12
+cd mern-final-project-Ellyj12
 
 # Install front-end dependencies
 cd client
@@ -230,12 +230,3 @@ The script connects to your MongoDB instance, calls `syncIndexes()` for the User
 | `npm start` | Start API in production mode |
 | `npm run test` | Execute Jest test suite |
 
-## Contributing
-
-1. Fork the repository and create a feature branch.
-2. Run linting and tests before pushing.
-3. Open a pull request describing your changes and screenshots where relevant.
-
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
